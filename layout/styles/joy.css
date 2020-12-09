@@ -1,0 +1,19 @@
+span{
+		color:green;
+		font-family: sans-serif;
+	}
+	#pah{
+		font-weight: initial;
+	}
+	.A{
+		color: red;
+		position: relative;
+		top: -1ex;
+	}
+
+	d{
+		border : 1px solid black;
+		background-color: lightblue;
+		padding: 10px 13px 15px 20px;
+	}
+	
