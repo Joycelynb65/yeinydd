@@ -4,6 +4,8 @@ span{
 	}
 	#pah{
 		font-weight: initial;
+		margin-left:auto;
+		margin-right:auto;
 	}
 	.A{
 		color: red;
